@@ -8,10 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Create a dataset with Hours_Studied as the independent variable and Marks_Scored as the dependent variable, then store it in a pandas DataFrame.
+2.Split the dataset into training and testing sets using train_test_split() to evaluate the model’s performance.
+
+3.Train a Linear Regression model using the training data, predict marks for the test data, and evaluate the model using Mean Squared Error and R² score.
+
+4.Plot the regression line with actual data points and use the trained model to predict marks for a given number of study hours. 
 
 ## Program:
 ```
@@ -84,7 +86,8 @@ print(f"\nPredicted marks for {hours} hours of study = {predicted_marks[0]:.2f}"
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+<img width="539" height="549" alt="540927121-fe001bf2-0f98-48a6-b49f-6d738c4f75c6" src="https://github.com/user-attachments/assets/815f4251-cbd6-4e5d-9df3-29d4eb81f1f8" />
 
 
 ## Result:
