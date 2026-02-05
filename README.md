@@ -89,6 +89,9 @@ print(f"\nPredicted marks for {hours} hours of study = {predicted_marks[0]:.2f}"
 
 <img width="539" height="549" alt="540927121-fe001bf2-0f98-48a6-b49f-6d738c4f75c6" src="https://github.com/user-attachments/assets/815f4251-cbd6-4e5d-9df3-29d4eb81f1f8" />
 <img width="435" height="172" alt="540927380-1dc260c5-8f51-46c6-b014-79e6d7e54263" src="https://github.com/user-attachments/assets/2ce46c79-3118-4e0d-9d82-8931ea9d2ab9" />
+<img width="311" height="79" alt="540927268-86ce3b40-3e65-4170-acbf-6ac1541fd207" src="https://github.com/user-attachments/assets/7d1feeb4-944d-4ff4-b04b-396577fe8791" />
+<img width="1018" height="685" alt="540927565-ecabdc83-b8ea-4d8f-8774-1595bbb58fbe" src="https://github.com/user-attachments/assets/a13686f3-76b6-433d-9c13-b56e0741842e" />
+<img width="1037" height="102" alt="540927668-ac51d12a-0cbb-4684-bb49-3b8fe42d0f52" src="https://github.com/user-attachments/assets/31455789-e7ee-4bff-8fac-0b278e0dda63" />
 
 
 ## Result:
